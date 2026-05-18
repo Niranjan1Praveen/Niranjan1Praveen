@@ -7,7 +7,7 @@ My work combines scalable engineering, applied AI research, and clean user-focus
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://discord.com">
@@ -25,7 +25,7 @@ My work combines scalable engineering, applied AI research, and clean user-focus
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 <p align="left">
 
@@ -63,70 +63,81 @@ My work combines scalable engineering, applied AI research, and clean user-focus
 
 </p>
 
----
+## Featured Projects
 
-# 🚀 Featured Projects
+### AdversaNet — Adversarial Robustness Testing Lab
 
-## 🔬 AdversaNet
-Interactive benchmarking platform for testing custom image classifiers against adversarial attacks such as FGSM, PGD, BIM, and C&W.
+Full-stack adversarial machine learning platform built using Next.js, Python, TensorFlow, and PyTorch for benchmarking image classifiers against adversarial attacks.
 
-### Features
-- Upload custom ML models
-- Generate adversarial examples
-- Confidence score visualization
-- Heatmap generation
-- Batch classification analysis
-- PyTorch + TensorFlow support
+#### Key Features
 
-🔗 Repository:  
-https://github.com/Niranjan1Praveen
+* Implemented FGSM and PGD adversarial attack algorithms
+* Custom model upload and testing pipeline
+* Confidence score comparison and perturbation heatmaps
+* Integrated frontend visualization with backend ML services
+* Database-driven experiment tracking and result storage
 
----
+**Tech Stack:** Next.js, Python, TensorFlow, PyTorch, Supabase, Tailwind CSS
 
-## 🩺 AI Prescription & Medical Assistant
-AI-powered healthcare workflow system using Gemini API, Supabase, React, and Flask.
-
-### Features
-- Auto-fill digital prescriptions
-- Medical conversation analysis
-- Voice-to-structured medical data
-- Real-time intelligent workflows
+🔗 GitHub: https://github.com/Niranjan1Praveen
 
 ---
 
-## 🌱 Carbon Footprint Tracker
-AI-assisted sustainability platform that extracts utility bill data and computes carbon emissions.
+### DropConnect — AI-Driven Water Resilience Platform
 
-### Features
-- PDF utility bill parsing
-- CO₂ emission analytics
-- Sustainability scoring
-- Interactive dashboard
+Winner of the Xylem Global Student Innovation Challenge 2025. Built an end-to-end AI-powered sustainability platform focused on water resilience analytics and infrastructure monitoring.
 
----
+#### Key Features
 
-## 🧠 Adversarial Attack Playground
-Web-based visual platform for understanding adversarial machine learning.
+* Developed scalable full-stack architecture
+* Responsive dashboard with real-time analytics
+* Backend API integration and database management
+* AI-assisted monitoring workflows
+* Cloud-ready deployment infrastructure
 
-### Features
-- Real-time attack generation
-- Interactive visual analytics
-- Confidence comparison charts
-- Perturbation heatmaps
+**Tech Stack:** Next.js, Supabase, JavaScript, PostgreSQL
+
+🔗 GitHub: https://github.com/Niranjan1Praveen
 
 ---
 
-# 📊 GitHub Stats
+### Exoplanetarium — AI Platform for Exoplanet Discovery
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Niranjan1Praveen&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjan1Praveen&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+2nd Runner-Up at NASA Space Apps Challenge Noida 2025. Designed and developed a full-stack astronomy platform for exoplanet discovery and visualization.
+
+#### Key Features
+
+* Interactive 3D visualization using Three.js
+* Python backend for astronomical data processing
+* API integration and scalable infrastructure setup
+* Dynamic scientific data rendering
+* Responsive research-oriented user interface
+
+**Tech Stack:** React.js, Three.js, Python, Flask
+
+🔗 GitHub: https://github.com/Niranjan1Praveen
 
 ---
 
-# 🧩 Current Focus
+### EchoWithin — Real-Time Voice AI for Emotional Awareness
+
+AI-powered conversational platform capable of real-time emotional analysis and intelligent voice interaction.
+
+#### Key Features
+
+* Real-time AI voice communication
+* Emotion detection and conversation analysis
+* Authentication and user-specific session logging
+* Interactive dashboards and analytics
+* Scalable backend APIs for conversational workflows
+
+**Tech Stack:** Next.js, Vapi AI, Flask, Supabase, Prisma
+
+🔗 GitHub: https://github.com/Niranjan1Praveen
+
+
+
+# Current Focus
 
 - Adversarial AI Research
 - AI + Healthcare Systems
@@ -137,9 +148,9 @@ Web-based visual platform for understanding adversarial machine learning.
 
 ---
 
-# 📫 Contact
+# Contact
 
-📧 **Email:** niranjanbpraveen@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/niranjan-praveen-a9019921a/  
+**Email:** niranjanbpraveen@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/niranjan-praveen-a9019921a/  
 
 ---
