@@ -79,7 +79,7 @@ Full-stack adversarial machine learning platform built using Next.js, Python, Te
 
 **Tech Stack:** Next.js, Python, TensorFlow, PyTorch, Supabase, Tailwind CSS
 
-🔗 GitHub: https://github.com/Niranjan1Praveen
+🔗 GitHub: [https://github.com/Niranjan1Praveen](https://github.com/Niranjan1Praveen/AdversaNet)
 
 ---
 
@@ -97,7 +97,7 @@ Winner of the Xylem Global Student Innovation Challenge 2025. Built an end-to-en
 
 **Tech Stack:** Next.js, Supabase, JavaScript, PostgreSQL
 
-🔗 GitHub: https://github.com/Niranjan1Praveen
+🔗 GitHub: [https://github.com/Niranjan1Praveen](https://github.com/Niranjan1Praveen/DropConnect)
 
 ---
 
@@ -115,7 +115,7 @@ Winner of the Xylem Global Student Innovation Challenge 2025. Built an end-to-en
 
 **Tech Stack:** React.js, Three.js, Python, Flask
 
-🔗 GitHub: https://github.com/Niranjan1Praveen
+🔗 GitHub: [https://github.com/Niranjan1Praveen](https://github.com/Niranjan1Praveen/Exoplanetarium-NasaSpaceAppsChallenge)
 
 ---
 
@@ -133,9 +133,7 @@ AI-powered conversational platform capable of real-time emotional analysis and i
 
 **Tech Stack:** Next.js, Vapi AI, Flask, Supabase, Prisma
 
-🔗 GitHub: https://github.com/Niranjan1Praveen
-
-
+🔗 GitHub: [https://github.com/Niranjan1Praveen](https://github.com/Niranjan1Praveen/EchoWithin)
 
 # Current Focus
 
@@ -148,9 +146,3 @@ AI-powered conversational platform capable of real-time emotional analysis and i
 
 ---
 
-# Contact
-
-**Email:** niranjanbpraveen@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/niranjan-praveen-a9019921a/  
-
----
